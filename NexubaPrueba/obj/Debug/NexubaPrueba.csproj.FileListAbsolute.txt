@@ -1,0 +1,16 @@
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\bin\Debug\NexubaPrueba.exe.config
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\bin\Debug\NexubaPrueba.exe
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\bin\Debug\NexubaPrueba.pdb
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\bin\Debug\MySql.Data.dll
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.csproj.AssemblyReference.cache
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.Form1.resources
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.Properties.Resources.resources
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.csproj.GenerateResource.cache
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.csproj.CopyComplete
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.exe
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.pdb
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.Vistas.DetallesUsuario.resources
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.Vistas.Agregar.resources
+C:\Users\xxd19\source\repos\NexubaPrueba\NexubaPrueba\obj\Debug\NexubaPrueba.Vistas.CSV.resources
